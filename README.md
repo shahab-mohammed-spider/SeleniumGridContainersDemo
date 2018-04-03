@@ -1,5 +1,7 @@
 #SeleniumParallelSample
-This is an sample project to showcase how to run parallel test using NUnit 3
+This is a sample project to showcase how to run parallel test using NUnit 3 and using Docker Containers
+The code will send requests to Selenium Hub which will distribute it to the selenium nodes.
+Selenium Hub and Selenium Node will be running in Docker Containers in Linux OS
 
 ##More Information
 The complete code base video is available in ExecuteAutomation YouTube channel 
