@@ -31,6 +31,8 @@ docker-compose down
 Check logs
 docker-compose logs
 
+#Get free certification from Udemy - Dockers and Selenium
+https://www.udemy.com/understanding-docker-performing-selenium-automation/learn/v4/overview
 
 ##More Information
 The complete code base video is available in ExecuteAutomation YouTube channel 
